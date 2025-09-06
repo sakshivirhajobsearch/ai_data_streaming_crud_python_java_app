@@ -1,0 +1,48 @@
+# ---- PYTHON ----
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.venv/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environment variables / secrets
+.env
+*.sqlite3
+database.db
+
+# IDE / editor config
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# ---- JAVA / MAVEN ----
+# Maven target directory
+target/
+
+# IntelliJ / Eclipse project files
+*.iml
+*.ipr
+*.iws
+*.classpath
+*.project
+.settings/
+
+# Logs
+*.log
+
+# ---- OS SYSTEM FILES ----
+.DS_Store
+Thumbs.db
